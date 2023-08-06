@@ -1,0 +1,34 @@
+export default{
+    success: true,
+    data:{
+        memes:[
+        {
+            id:1,
+            imgURL:"http://i.imgflip.com/1bij.jpg"
+        },
+        {
+            id:2,
+            imgURL:"https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg"
+        },
+        {
+            id:3,
+            imgURL:"https://play-lh.googleusercontent.com/cJokjWYV_EhTZJvJG0zbV6CowN5V8EoyjzF4LssGyjhTo6rAVntx3XjD7AkBQ2IdFKw"
+        },
+        {
+            id:4,
+            imgURL:"https://i.imgflip.com/6woq7y.jpg?a469488"
+        },
+        {
+            id:5,
+            imgURL:"https://media.timeout.com/images/105685537/750/422/image.jpg"
+        },
+        {
+            id:6,
+            imgURL:"https://images.theconversation.com/files/521751/original/file-20230419-18-hg9dc3.jpg?ixlib=rb-1.1.0&rect=398%2C2%2C1206%2C991&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip"
+        },
+        {
+            id:7,
+            imgURL:"https://pyxis.nymag.com/v1/imgs/09c/923/65324bb3906b6865f904a72f8f8a908541-16-spongebob-explainer.rsquare.w700.jpg"
+        }]
+    }
+}
